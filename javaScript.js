@@ -102,3 +102,4 @@
 // function myFunction() {
 //     alert('This is my function.');
 //   };
+//myFunction();
