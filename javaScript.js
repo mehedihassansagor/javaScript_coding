@@ -112,7 +112,7 @@
 
 // check if the number is positive or negative/zero
 
-const number = prompt("Enter a number..//")
+const number = prompt("Enter a number../")
 if (number > 0) {
   console.log("The number is positive.")
 }
