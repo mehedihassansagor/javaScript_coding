@@ -118,7 +118,6 @@ const number = prompt("Enter a number: ")
 if (number > 0) {
   console.log("The number is positive")
 }
-// if number is not greater than 0
 else {
   console.log("The number is either a negative number or 0")
 }
