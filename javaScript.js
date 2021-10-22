@@ -120,4 +120,4 @@ else {
   console.log("The number is either a negative number or 0")
 }
 
-console.log("The if...else statement is eas")
+console.log("The if...else statement is easy")
