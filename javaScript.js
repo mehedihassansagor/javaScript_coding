@@ -97,3 +97,8 @@
 //     btn.addEventListener('click', function(){ console.log(i); });
 //     document.body.appendChild(btn);
 //   }
+
+// alert
+// function myFunction() {
+//     alert('This is my function.');
+//   };
