@@ -120,7 +120,7 @@ if (number > 0) {
 }
 // if number is not greater than 0
 else {
-  console.log("The number is either a negative number or 0");
+  console.log("The number is either a negative number or 0")
 }
 
 console.log("The if...else statement is easy")
